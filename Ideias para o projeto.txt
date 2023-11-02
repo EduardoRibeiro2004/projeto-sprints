@@ -1,0 +1,25 @@
+Ideia 1 > Loja de roupas (algo como shopee ou shein)
+
+aba 1 = feed com peças em destaque (principal)
+aba 2 = carrinho
+aba 3 = cadastro
+aba 4 = pesquisa por tags (ex: bermudas, calças, jaquetas etc)
+aba 5 = produtos novos
+
+
+Ideia 2 > Blog informatívo (mistura de G1 com Wikipedia)
+
+aba 1 = recomendações de conteúdo
+aba 2 = perfil
+aba 3 = aba de artígos salvos/favoritados
+aba 4 = notícias
+
+Um blog com informações e notícias sobre vários temas. Em primeiro momento com abas dedicadas à noticias atuais, perfil de usuário e artigos como um dicionário.
+
+Grupo:
+
+Arnold Lima
+Bruno Cardoso
+Eduardo Ribeiro
+Elom Santos
+Ricardo Santos
